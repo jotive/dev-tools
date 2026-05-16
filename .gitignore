@@ -1,0 +1,12 @@
+# secrets & personal config
+.env
+
+# logs
+logs/
+
+# build artifacts
+DevToolsApp/bin/
+DevToolsApp/obj/
+DevToolsApp/dist/
+*.exe
+*.bak
